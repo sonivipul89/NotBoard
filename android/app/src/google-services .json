@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10698272704",
+    "firebase_url": "https://notboard-56f1d.firebaseio.com",
+    "project_id": "notboard-56f1d",
+    "storage_bucket": "notboard-56f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10698272704:android:3412650665e3147fca2225",
+        "android_client_info": {
+          "package_name": "com.notboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10698272704-879kc3meadad211o315gqk68dasomchr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notboard",
+            "certificate_hash": "acd66fea76f7e1f4d8155d33b9e3a7069a5b05ee"
+          }
+        },
+        {
+          "client_id": "10698272704-5sb26pu86al5ssdhibrsel6hgngiftk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfX7BZpLeZLp3N0uU_C5BnZ4RtB0l1Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10698272704-5sb26pu86al5ssdhibrsel6hgngiftk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

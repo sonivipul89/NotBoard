@@ -1,0 +1,4 @@
+#Mon Mar 09 20:58:46 IST 2020
+base.0=F\:\\NotBoard\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
