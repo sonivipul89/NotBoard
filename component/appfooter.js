@@ -2,7 +2,7 @@ import React, { Component, } from 'react'
 import { View, Animated, StyleSheet, TouchableOpacity } from 'react-native'
 import { Icon, Button,Footer,FooterTab,Text } from 'native-base'
 // import material from '../src/theme/variables/material'
-
+adal
 
 export class Appfooter extends Component {
 
